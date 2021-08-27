@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  padding: 30;
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 30;
+  overflow: hidden;
+  background-color: white;
+  float: right;
+}
+.main {
+	overflow: hidden;
+	background-color: white;
+	height: 100px;
+	position: relative;
+}
